@@ -87,11 +87,6 @@ int DeleteStudentInformation(const char *num)
 		printf("链表内容为空\n");
 		return 0;
 	}
-dasfds
-asfdsfadsfdscz
-vzc
-vczx
-vzc
 	else
 	{
 		/* 定义一个链表指针临时保存头结点的位置 */
